@@ -9,3 +9,6 @@ C:\Users\Administrator\Documents\Visual Studio 2015\Projects\HyperVSamples\Hyper
 C:\Users\Administrator\Documents\Visual Studio 2015\Projects\HyperVSamples\HyperVSamples\bin\Debug\DiscUtils.Common.xml
 C:\Users\Administrator\Documents\Visual Studio 2015\Projects\HyperVSamples\HyperVSamples\obj\Debug\HyperVSamples.exe
 C:\Users\Administrator\Documents\Visual Studio 2015\Projects\HyperVSamples\HyperVSamples\obj\Debug\HyperVSamples.pdb
+C:\Users\Administrator\Desktop\GitTest\test\HyperVSamples\bin\Debug\HyperVSamples.exe.config
+C:\Users\Administrator\Desktop\GitTest\test\HyperVSamples\obj\Debug\HyperVSamples.exe
+C:\Users\Administrator\Desktop\GitTest\test\HyperVSamples\obj\Debug\HyperVSamples.pdb
