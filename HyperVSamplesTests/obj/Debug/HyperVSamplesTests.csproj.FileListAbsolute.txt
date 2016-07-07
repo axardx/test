@@ -1,0 +1,9 @@
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\HyperVSamples\HyperVSamplesTests\bin\Debug\HyperVSamplesTests.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\HyperVSamples\HyperVSamplesTests\bin\Debug\HyperVSamplesTests.pdb
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\HyperVSamples\HyperVSamplesTests\bin\Debug\HyperVSamples.exe
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\HyperVSamples\HyperVSamplesTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\HyperVSamples\HyperVSamplesTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\HyperVSamples\HyperVSamplesTests\obj\Debug\HyperVSamplesTests.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\HyperVSamples\HyperVSamplesTests\obj\Debug\HyperVSamplesTests.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\HyperVSamples\HyperVSamplesTests\obj\Debug\HyperVSamplesTests.pdb
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\HyperVSamples\HyperVSamplesTests\bin\Debug\HyperVSamples.pdb

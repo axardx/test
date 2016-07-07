@@ -1,0 +1,11 @@
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\HyperVSamples\HyperVSamples\bin\Debug\HyperVSamples.exe.config
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\HyperVSamples\HyperVSamples\bin\Debug\HyperVSamples.exe
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\HyperVSamples\HyperVSamples\bin\Debug\HyperVSamples.pdb
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\HyperVSamples\HyperVSamples\bin\Debug\DiscUtils.Common.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\HyperVSamples\HyperVSamples\bin\Debug\DiscUtils.dll
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\HyperVSamples\HyperVSamples\bin\Debug\DiscUtils.pdb
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\HyperVSamples\HyperVSamples\bin\Debug\DiscUtils.xml
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\HyperVSamples\HyperVSamples\bin\Debug\DiscUtils.Common.pdb
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\HyperVSamples\HyperVSamples\bin\Debug\DiscUtils.Common.xml
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\HyperVSamples\HyperVSamples\obj\Debug\HyperVSamples.exe
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\HyperVSamples\HyperVSamples\obj\Debug\HyperVSamples.pdb
