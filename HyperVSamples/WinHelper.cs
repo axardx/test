@@ -29,7 +29,7 @@ namespace HyperVSamples
                 if (!Program.vdipathToDrive.ContainsValue(drive) )
                     return drive;
             }
-            return 'Z';
+            //return 'Z';
         }
 
         public static bool copyFolderToVhd(string srcPath, string drive)
